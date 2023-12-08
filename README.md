@@ -47,11 +47,3 @@ This hack will help you learn:
 #### Resources
 
 - [Creating a pull request from a fork](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
-
-### [Optional] Challenge 3
-
-- Build and deploy the [**containerized** CoHack App](/src/Dockerfile) to Microsoft Azure
-
-#### Resources
-
-- [Configure a GitHub Action to create a container instance](https://learn.microsoft.com/azure/container-instances/container-instances-github-action?tabs=openid)
