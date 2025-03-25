@@ -38,7 +38,7 @@ This hack will help you learn:
 
 ### [Optional] Challenge 2
 
-- Update the origin CoHack repository to add your team name (TeamXX) to [Home Page](/src/Pages/Index.cshtml) which points to your team's repository as shown below:
+- This is an optional challenge. Update the origin CoHack repository to add your team name (TeamXX) to [Home Page](/src/Pages/Index.cshtml) which points to your team's repository as shown below:
 
 ![CoHack App - Home Page](/images/CoHackApp-HomePage.jpg)
 
